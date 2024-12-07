@@ -37,3 +37,15 @@ which is consistent with open_llm_leaderboard. Also, note that we set the number
 Humaneval：https://github.com/OpenBMB/Eurus?tab=readme-ov-file
 
 Mt-bench：https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge
+
+If you find our repo to be useful, please cite our paper:
+```bibtex
+@inproceedings{xiao2024leverage,
+  title={How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective},
+  author={Xiao, Teng and Li, Mingxiao and Yuan, Yige and Zhu, Huaisheng and Cui, Chao and Honavar, Vasant},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={13413--13426},
+  year={2024}
+}
+
+
